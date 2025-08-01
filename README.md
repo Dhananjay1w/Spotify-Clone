@@ -1,20 +1,23 @@
-🎵 Spotify Clone – HTML & CSS
-A simple front-end clone of the Spotify web player built using only HTML and CSS. This project replicates the layout and design of Spotify's interface, including the sidebar, player controls, and main content area.
+# 🎵 Spotify Clone
 
-🌟 Features:
-Fully responsive layout
+A responsive frontend clone of the Spotify web player, built using only **HTML** and **CSS**. This project focuses on replicating the UI/UX of Spotify without any backend or JavaScript functionality.
 
-Custom navigation sidebar
+## 📸 Preview
 
-Styled music player footer
+![Screenshot](screenshot.png) <!-- Replace with your actual screenshot file -->
 
-Home, Search, and Library sections
+## 🚀 Features
 
-Clean, organized code with comments
+- Responsive layout (mobile & desktop)
+- Sidebar navigation
+- Playlist section
+- Now playing bar
+- Modern Spotify-like UI
 
-🚀 Tech Stack:
-HTML5
+## 🛠️ Built With
 
-CSS3 (Flexbox & Grid)
+- HTML5
+- CSS3 (Flexbox & Grid)
 
-Note: This is a static project — no JavaScript or backend functionality is included.
+## 📁 Folder Structure
+
