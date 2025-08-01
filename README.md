@@ -4,7 +4,7 @@ A responsive frontend clone of the Spotify web player, built using only **HTML**
 
 ## 📸 Preview
 
-![Screenshot](screenshot.png) <!-- Replace with your actual screenshot file -->
+![Screenshot](Spotify.png) <!-- Replace with your actual screenshot file -->
 
 ## 🚀 Features
 
@@ -18,6 +18,3 @@ A responsive frontend clone of the Spotify web player, built using only **HTML**
 
 - HTML5
 - CSS3 (Flexbox & Grid)
-
-## 📁 Folder Structure
-
